@@ -1,9 +1,6 @@
 European Model
 
-To run the european model modify path in the include instructon in the line 38 with the location of you files.
+To run the european model modify the path in include instructon, of the MasterEurope.gams file, in the line 38 with the location of your files.
 
-The requeriments to run this model are the following:
-
-GAMS
-Gurobi
+This model is coded in GAMS and the defaulta solver is GUROBI.
 
