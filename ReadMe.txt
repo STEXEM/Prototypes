@@ -1,6 +1,8 @@
-European Model
+1. Open the project Eurpe.gpr
+2. From the project open the Master_Europe.gams
+3. In the parameter comand line enter user1=Europe_Vision3
+4. Run
 
-To run the european model modify the path in include instructon, of the MasterEurope.gams file, in the line 38 with the location of your files.
-
-This model is coded in GAMS and the default solver is GUROBI.
+The default solver is gurobi, from which you need a license.
+You can change it to your prefered solver. 
 
