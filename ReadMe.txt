@@ -3,6 +3,6 @@
 3. In the parameter comand line enter user1=Europe_Vision3
 4. Run
 
-The default solver is gurobi, from which you need a license.
+The default solver is Gurobi, from which you need a license.
 You can change it to your prefered solver. 
 
