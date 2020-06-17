@@ -1,4 +1,4 @@
-1. Open the project Eurpe.gpr
+1. Open the project Europe.gpr
 2. From the project open the Master_Europe.gams
 3. In the parameter comand line enter user1=Europe_Vision3
 4. Run
