@@ -1,0 +1,24 @@
+[PROJECT]
+
+[RP:STEXEM_EUROPE]
+1=
+
+[RP:MASTEREUROPE]
+1=user1=Europe_Vision3
+2=user1=Europe_Vision1
+
+[MRUFILES]
+1=C:\Users\igonzalezr\Documents\0_Programs\1_STEXEM\0.5_EJECUTABLES_(May2019_ now)\03_EJECUTABLES_LAST\08_Europe_Package\MasterEurope.lst
+2=C:\Users\igonzalezr\Documents\0_Programs\1_STEXEM\0.5_EJECUTABLES_(May2019_ now)\03_EJECUTABLES_LAST\08_Europe_Package\MasterEurope.log
+3=C:\Users\igonzalezr\Documents\0_Programs\1_STEXEM\0.5_EJECUTABLES_(May2019_ now)\03_EJECUTABLES_LAST\08_Europe_Package\tmp_storagegen.txt
+
+[OPENWINDOW_1]
+FILE0=C:\Users\igonzalezr\Documents\0_Programs\1_STEXEM\0.5_EJECUTABLES_(May2019_ now)\03_EJECUTABLES_LAST\08_Europe_Package\MasterEurope.gms
+FILE1=C:\Users\igonzalezr\Documents\0_Programs\1_STEXEM\0.5_EJECUTABLES_(May2019_ now)\03_EJECUTABLES_LAST\08_Europe_Package\STEXEM_EUROPE.gms
+FILE2=C:\Users\igonzalezr\Documents\0_Programs\1_STEXEM\0.5_EJECUTABLES_(May2019_ now)\03_EJECUTABLES_LAST\08_Europe_Package\STEXEM_EUROPE.lst
+FILE3=C:\Users\igonzalezr\Documents\0_Programs\1_STEXEM\0.5_EJECUTABLES_(May2019_ now)\03_EJECUTABLES_LAST\08_Europe_Package\MasterEurope.gms
+MAXIM=0
+TOP=50
+LEFT=50
+HEIGHT=789
+WIDTH=1085
